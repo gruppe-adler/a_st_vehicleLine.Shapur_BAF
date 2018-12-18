@@ -1,0 +1,5 @@
+enableDebugConsole = 1;
+
+class cfgFunctions {
+    #include "grad-vehicleline\cfgFunctions.hpp"
+};
